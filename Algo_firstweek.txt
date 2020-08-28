@@ -1,0 +1,39 @@
+
+
+Algorithm solving startegy & steps....
+--------------------------------------------------------------------------------------------
+Presentation & logic(pseudocode).
+Design & Coding.
+Proof of Correctness.
+Analysis regarding complexity.
+
+
+--------------------------------------------------------------------------------------------
+Pseudocode Writing. (Presentation)
+--------------------------------------------------------------------------------------------
+
+Two types : Iterative and Recursive algorithm.
+
+Iterative Solution.
+-----------------------------------
+for loop, while loop, do while loop.
+
+Recursive Soultion.
+----------------------------------------
+Using stack. Last in First out principle.
+
+How to write a recursive algorithm?????
+. First come up with a base case which when satisfied will return the output.
+. Figure out the parameters to play around with.
+. Next return fucntion call with conditional statements.
+. Increment/Decrement count with number of calls being put up on stack.
+. Make sure it always gives you a solution in finite number of steps.
+
+--------------------------------------------------------------------------------------------
+
+Problemsssssss (Iterative and Recursive Solutions).....
+
+1. Let A be a sorted array and check to see if two numbers add to give a number b.
+2. Hanoi's Tower with a Source, Destination && Helper.
+3. Concave / Convex Array with Decrease and Conquer Approach.
+4. Maximum Subarray Sum with different runtimes n3, n2, n.
